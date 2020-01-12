@@ -1,2 +1,2 @@
 # millestone2
-hiking demo website
+ demo website
